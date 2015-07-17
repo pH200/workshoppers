@@ -69,4 +69,4 @@ workshoppers without installing them globally.
 - learnyoucouchdb
 - learn-generators
 - learnyoureact
-- perfschoo
+- perfschool
